@@ -6,4 +6,4 @@
 - 💞️ I’m looking to collaborate on projects on employing websites and web extensions 
 - 📫 How to reach me ...
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke1836)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luke1836&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
