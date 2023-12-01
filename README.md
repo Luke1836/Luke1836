@@ -7,4 +7,4 @@
 - 📫 How to reach me ...
 
 ## My Stats
-<img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align=center />
+<img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
