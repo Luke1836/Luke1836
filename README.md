@@ -9,3 +9,6 @@
 ## My Stats
 <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
 <img src="https://streak-stats.demolab.com/?user=Luke1836&theme=radical" />
+
+## Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=Luke1836&column=5&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" align="center" />
