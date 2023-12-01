@@ -12,3 +12,13 @@
 
 ## Achievements
 <img src="https://github-profile-trophy.vercel.app/?username=Luke1836&column=5&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" align="center" />
+
+## Languages and Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,java,py,git,nodejs,vite,vscode,visualstudio,figma&perline=4" alt="languages and tools" align="center" />
+  <br />
+  <br />
+  <br />
+  <!-- <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" /> -->
+  <img src="https://stats.quine.sh/noelg-cj/languages-over-time?theme=dark" alt="top langs" align="center" />
+</div>
