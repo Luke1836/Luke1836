@@ -2,7 +2,7 @@
 <br/>
 # Hi, I’m George Kurian Thomas (@Luke1836)
 - 👀 I’m interested in web development and data analysis
-- 🌱 I’m currently pursuing a degree in B-tech Computer Science and Engineering at College of Engineering Trivandrum.
+- 🌱 I’m pursuing a B-tech Computer Science and Engineering degree at College of Engineering Trivandrum.
 - 💞️ I’m looking to collaborate on projects on employing websites and web extensions 
 - 📫 How to reach me ...
 
@@ -26,5 +26,10 @@
   <br />
   <!-- <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" /> -->
   <img src="https://stats.quine.sh/Luke1836/languages-over-time?theme=dark" alt="top langs" align="center" />
+</div>
+
+## Most Used languages
+<div align="Center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1836&hide_progress=true" />
 </div>
 
