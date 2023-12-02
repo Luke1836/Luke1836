@@ -11,9 +11,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Luke1836&theme=radical" />
-  <br />
-  <br />
-  <img src="https://stats.quine.sh/Luke1836/topics-over-time?theme=dark" />
 </div>
 
 ## Achievements
