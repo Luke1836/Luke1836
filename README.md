@@ -30,6 +30,6 @@
 
 ## Most Used languages
 <div align="Center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1836&hide_progress=true" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luke1836&layout=donut)](https://github.com/Luke1836/github-readme-stats)
 </div>
 
