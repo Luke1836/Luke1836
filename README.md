@@ -2,13 +2,13 @@
 <br/>
 # Hi, I’m George Kurian Thomas (@Luke1836)
 - 👀 I’m interested in web development and data analysis
-- 🌱 I’m pursuing a B-tech Computer Science and Engineering degree at College of Engineering Trivandrum.
-- 💞️ I’m looking to collaborate on projects on employing websites and web extensions 
+- 🌱 I’m pursuing a B-tech Computer Science and Engineering degree at the College of Engineering Trivandrum.
+- 💞️ I’m looking to collaborate on projects employing websites and web extensions 
 - 📫 How to reach me ...
 
 ## My Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=dracula" alt="Readme stats" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
   <br><br>
   <img src="https://streak-stats.demolab.com/?user=Luke1836&theme=radical" />
 </div>
