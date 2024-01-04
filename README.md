@@ -9,7 +9,7 @@
 ## My Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
-  <be />
+  <br />
   <img src="https://streak-stats.demolab.com/?user=Luke1836&theme=radical" />
 </div>
 
