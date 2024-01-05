@@ -10,7 +10,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luke1836&theme=radical" alt="Readme stats" align="center" />
   <br /><br /><br />
-  [![Luke1836's GitHub | Stats](https://stats.quine.sh/Luke1836/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Luke1836)
+  <img src = "https://stats.quine.sh/Luke1836/github?theme=dark" />
   <br /><br /><br />
   <img src="https://streak-stats.demolab.com/?user=Luke1836&theme=radical" />
 </div>
