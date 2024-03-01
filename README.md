@@ -17,7 +17,7 @@
 
 ## Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luke1836 & theme=onedark" />
+  <img src="https://github-trophies.vercel.app/?username=Luke1836" />
 </div>
 
 ## Languages and Tools
