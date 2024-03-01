@@ -17,7 +17,8 @@
 
 ## Achievements
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Luke1836&column=5&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" align="center" />
+  [![trophy]()](https://github.com/ryo-ma/github-profile-trophy)
+  <img src="(https://github-profile-trophy.vercel.app/?username=Luke1836)" alt="trophies" align="center" />
 </div>
 
 ## Languages and Tools
