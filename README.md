@@ -17,8 +17,8 @@
 
 ## Achievements
 <div align="center">
-  [![trophy]()]
-  <img src="(https://github-profile-trophy.vercel.app/?username=Luke1836)(https://github.com/ryo-ma/github-profile-trophy)" alt="trophies" align="center" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Luke1836)](https://github.com/ryo-ma/github-profile-trophy)
+  <!--<img src="" alt="trophies" align="center" />-->
 </div>
 
 ## Languages and Tools
