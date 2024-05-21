@@ -5,7 +5,7 @@
 - 🌱 I’m pursuing a B-tech Computer Science and Engineering degree at the College of Engineering Trivandrum.
 - 💞️ I’m looking to collaborate on projects employing websites and web extensions.
 - 📫 Twitter: https://x.com/LGeorge1836<br />
-  📫 LinkedIn: https://www.linkedin.com/in/george-kurian-thomas-07bb62291/
+  📫 LinkedIn: https://www.linkedin.com/in/george-kurian-thomas-07bb62291
 - Check out my website - https://luke1836.github.io
 
 ## My Stats
