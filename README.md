@@ -29,7 +29,7 @@
   <!-- <img src="https://github-readme-stats-noelg-cj.vercel.app/api/top-langs/?username=noelg-cj&layout=donut-vertical" alt="top langs" align="center" /> -->
   <img src="https://stats.quine.sh/Luke1836/languages-over-time?theme=dark" alt="top langs" align="center" />
   <br /><br /><br />
-  <img src = "https://stats.quine.sh/Luke1836/dependencies?theme=dark" /
+  <img src = "https://stats.quine.sh/Luke1836/dependencies?theme=dark" />
   <br /><br />
 </div>
 
