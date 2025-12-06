@@ -1,4 +1,4 @@
-![banner](https://github.com/Luke1836/Luke1836/blob/main/Profile-Gold-2.jpg)
+![banner](https://github.com/Luke1836/Luke1836/blob/main/Profile2.png)
 <br/>
 # Hi, I’m George Kurian Thomas (@Luke1836)
 - 👀 I’m interested in Web Development and Data Analysis.
