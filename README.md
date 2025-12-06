@@ -1,8 +1,8 @@
 ![banner](https://github.com/Luke1836/Luke1836/blob/main/Profile-2.png)
 <br/>
 # Hi, I’m George Kurian Thomas (@Luke1836)
-- 👀 I’m interested in Web Development and Data Analysis.
-- 🌱 I’m pursuing a B-tech Computer Science and Engineering degree at the College of Engineering Trivandrum.
+- 👀 I’m interested in Web Development and Data Analytics.
+- 🌱 I’m pursuing a B.Tech in Computer Science and Engineering degree at the College of Engineering Trivandrum.
 - 💞️ I’m looking to collaborate on projects employing websites and web extensions.
 - 📫 Twitter: https://x.com/LGeorge1836<br />
   📫 LinkedIn: https://www.linkedin.com/in/george-kurian-thomas-07bb62291
